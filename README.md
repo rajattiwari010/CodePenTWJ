@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# CODEPEN(EDITOR)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built an code editor to run and execute all three necesssary tools i.e Html, Css, JavaScript in same screen and parallely see the output in same screen.
+Its an user friendly editor and can be used by beginer also.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Roadmap
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Readme File Goes in this manner
 
-### `npm test`
+- Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Usage
 
-### `npm run build`
+- Glimpses
+ 
+- Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Contact
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- User Friendly Code Editor
+- Live output visibilty in same screen
+- All three essential tool i.e Html, Css, JavaScript can be executed
+- React.js Framework is used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Skills:** Html, JavaScript, CSS, React.js
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Server:** Node
 
-## Learn More
+**Deployemennt:**  Github, Vercel
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Dependencies:** Codemirror, Fortawesome
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## GLIPSES
 
-### Code Splitting
+<img width="312" alt="Screenshot 2023-05-28 055650" src="https://github.com/rajattiwari010/CodePenTWJ/assets/115210236/d54057df-80de-47af-aa94-26968cdfb19c">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<img width="324" alt="Screenshot 2023-05-28 055700" src="https://github.com/rajattiwari010/CodePenTWJ/assets/115210236/ace9f734-c676-4508-a2d1-6574f5d3becd">
 
-### Analyzing the Bundle Size
+<img width="309" alt="Screenshot 2023-05-28 055714" src="https://github.com/rajattiwari010/CodePenTWJ/assets/115210236/b7246760-ac20-4f70-8856-9426c2deefe6">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img width="960" alt="Screenshot 2023-05-28 055636" src="https://github.com/rajattiwari010/CodePenTWJ/assets/115210236/c2fe7df7-b29f-4fee-8b37-c5192bc9475e">
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Demo
 
-### Advanced Configuration
+Try it here: https://codepen-six.vercel.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Usage/Examples
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Can be used to develop Static website
 
-### `npm run build` fails to minify
+- A beginner can use it, to see the output in same screen
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- AutoComplete Feature is also there
+
+## Contact
+
+To contact:- 
+- email:- rajattiwari006@gamil.com
+
+- LinkedIn:- https://www.linkedin.com/in/rajat-tiwari-832704241/
+
+- GitHub:- https://github.com/rajattiwari010/
+
+- Vercel:- https://vercel.com/dashboard
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Made With ❤ By Rajat Tiwari=-=-=-=--==-=-=-=-=-=-=-
